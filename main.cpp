@@ -12,7 +12,7 @@ int main() {
 
     // run the program as long as the window is open
     while (dewie.IsRunning()) {
-        // update the game
+        // update the game.
         dewie.Update();
 
         // render the game
