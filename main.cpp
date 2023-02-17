@@ -7,7 +7,7 @@
 int main() {
     std::srand(static_cast<unsigned>(time(nullptr)));
 
-    // initialise game engine
+    // initialise game engine.
     Game dewie;
 
     // run the program as long as the window is open
