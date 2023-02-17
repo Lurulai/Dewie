@@ -11,8 +11,7 @@ int main() {
     Game dewie;
 
     // run the program as long as the window is open
-    while (dewie.IsRunning())
-    {
+    while (dewie.IsRunning()) {
         // update the game
         dewie.Update();
 
